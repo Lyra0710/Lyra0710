@@ -27,29 +27,25 @@ I am particularly interested in space and scientific data, and I also enjoy expl
 
 ## Featured Projects
 
-### 🔥 Wildfire Patterns & Intensity Analysis
+### 🔥 [Wildfire Patterns & Intensity Analysis](https://github.com/svtlys/viirs-wildfire-analytics)
 
 Analyzed **22M+ NASA FIRMS VIIRS observations** to explore wildfire patterns and build machine learning models for predicting wildfire intensity.
 
 `Python` · `XGBoost` · `RAPIDS` · `SHAP` · `Streamlit`
 
-[View Project →](https://github.com/svtlys/viirs-wildfire-analytics)
 
-### 🎬 Netflix & TMDb Trend Analysis
+### 🎬 [Netflix & TMDb Trend Analysis](https://github.com/svtlys/netflix-tmdb-trend-analysis)
 
 Built an automated data pipeline combining historical Netflix data with daily TMDb trends to explore how movie trends evolve over time.
 
 `Python` · `Airflow` · `Snowflake` · `dbt` · `SQL`
 
-[View Project →](https://github.com/svtlys/netflix-tmdb-trend-analysis)
 
-### 🧠 Emotion-Based Community Analysis
+### 🧠 [Emotion-Based Community Analysis](https://github.com/louisasss/Data245_Group3_TeamProject)
 
 Explored emotional patterns across Reddit communities using clustering and classification on **58K+ GoEmotions comments**.
 
 `Python` · `Scikit-learn` · `XGBoost` · `LightGBM` · `K-Means`
-
-[View Project →](https://github.com/louisasss/Data245_Group3_TeamProject)
 
 ## Research & Publications
 
@@ -59,31 +55,17 @@ Explored emotional patterns across Reddit communities using clustering and class
 * **Springer ICETSS 2024** — Deep Learning for Dementia Detection
   [View Publication →](https://doi.org/10.1007/978-3-032-11488-4_15)
 
-  ## Technologies I've worked with
-
-**Languages**
+## Technologies I've worked with
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-
-**Machine Learning & AI**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-ML-blue?style=flat-square)
-
-**Data & Analytics**
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square\&logo=snowflake\&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square\&logo=apacheairflow\&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square\&logo=dbt\&logoColor=white)
-
-**Tools & Development**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
+
 
