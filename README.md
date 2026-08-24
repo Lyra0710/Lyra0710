@@ -17,4 +17,10 @@ Here are some ideas to get you started:
 
 I am currently a student at San José State University pursuing an MS in Applied Data Intelligence. I enjoy working with data, finding patterns, building models, and understanding the story behind the results.
 
-I am particularly interested in space and scientific data, but I enjoy exploring how data, AI, and machine learning can be applied to different kinds of problems. I am always looking for opportunities to learn and contribute through research and projects.
+I am particularly interested in space and scientific data, and I also enjoy exploring how data, AI, and machine learning can be applied to different kinds of problems. I am always looking for opportunities to learn and contribute through research and projects.
+
+## What I'm currently up to
+
+- Currently involved in **machine learning research**, with work in progress toward publication
+- Exploring **robotics** and looking forward to learning more about it
+- Thinking about building an **AI agent for data preparation** that can help clean and prepare datasets for machine learning
