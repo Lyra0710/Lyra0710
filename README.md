@@ -51,3 +51,10 @@ Explored emotional patterns across Reddit communities using clustering and class
 
 [View Project →](https://github.com/louisasss/Data245_Group3_TeamProject)
 
+## Research & Publications
+
+* **IEEE ICEPES 2024** — Machine Learning-Based Asteroid & Solar Flare Prediction
+  [View Publication →](https://doi.org/10.1109/ICEPES60647.2024.10653497)
+
+* **Springer ICETSS 2024** — Deep Learning for Dementia Detection
+  [View Publication →](https://doi.org/10.1007/978-3-032-11488-4_15)
