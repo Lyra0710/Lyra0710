@@ -24,3 +24,30 @@ I am particularly interested in space and scientific data, and I also enjoy expl
 - Currently involved in **machine learning research**, with work in progress toward publication
 - Exploring **robotics** and looking forward to learning more about it
 - Thinking about building an **AI agent for data preparation** that can help clean and prepare datasets for machine learning
+
+## Featured Projects
+
+### 🔥 Wildfire Patterns & Intensity Analysis
+
+Analyzed **22M+ NASA FIRMS VIIRS observations** to explore wildfire patterns and build machine learning models for predicting wildfire intensity.
+
+`Python` · `XGBoost` · `RAPIDS` · `SHAP` · `Streamlit`
+
+[View Project →](https://github.com/svtlys/viirs-wildfire-analytics)
+
+### 🎬 Netflix & TMDb Trend Analysis
+
+Built an automated data pipeline combining historical Netflix data with daily TMDb trends to explore how movie trends evolve over time.
+
+`Python` · `Airflow` · `Snowflake` · `dbt` · `SQL`
+
+[View Project →](https://github.com/svtlys/netflix-tmdb-trend-analysis)
+
+### 🧠 Emotion-Based Community Analysis
+
+Explored emotional patterns across Reddit communities using clustering and classification on **58K+ GoEmotions comments**.
+
+`Python` · `Scikit-learn` · `XGBoost` · `LightGBM` · `K-Means`
+
+[View Project →](https://github.com/louisasss/Data245_Group3_TeamProject)
+
