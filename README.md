@@ -71,6 +71,8 @@ Explored emotional patterns across Reddit communities using clustering and class
 
 ## Let's Connect
 
+I am currently looking for Summer 2027 internship opportunities where I can work with data, uncover interesting patterns, and use AI and machine learning to solve meaningful problems. I am especially excited about opportunities where I can keep learning, explore new ideas, and contribute to work that has a real impact.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Siri_Ananya_Yallapragada-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/siri-ananya-yallapragada-11b229221/)
 [![SJSU Email](https://img.shields.io/badge/Email-SJSU-0055A2?style=flat-square\&logo=gmail\&logoColor=white)](mailto:ananya.yallapragada@sjsu.edu)
 [![Personal Email](https://img.shields.io/badge/Email-Personal-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:ananyayallapragada@gmail.com)
