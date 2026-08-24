@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Lyra0710/Lyra0710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Ananya 👋
+
+I am currently a student at San José State University pursuing an MS in Applied Data Intelligence. I enjoy working with data, finding patterns, building models, and understanding the story behind the results.
+
+I am particularly interested in space and scientific data, but I enjoy exploring how data, AI, and machine learning can be applied to different kinds of problems. I am always looking for opportunities to learn and contribute through research and projects.
