@@ -23,7 +23,7 @@ I am particularly interested in space and scientific data, and I also enjoy expl
 
 - Currently involved in **machine learning research**, with work in progress toward publication
 - Exploring **robotics** and looking forward to learning more about it
-- Thinking about building an **AI agent for data preparation** that can help clean and prepare datasets for machine learning
+- Building an **AI agent for data preparation** that can help clean and prepare datasets for machine learning
 
 ## Featured Projects
 
